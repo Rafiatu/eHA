@@ -1,2 +1,0 @@
-# eHA
-Academy projects
