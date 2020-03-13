@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>RAFIBELLA'S KITCHEN</title>
+    <style>
+      #welcome{
+        text-align:center;
+      }
+    </style>
+  </head>
+  <body>
+  <h1 id="welcome">Welcome to Rafibella's kitchen.</h1>
+  <p>Today we'll show you how to make your favorite rice recipes easily with regular ingredients!</p>
+  <h2>TABLE OF CONTENT</h2>
+  <table>
+  <thead>
+    <tr>
+      <th>Meal</th>
+      <th>Page</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="#jollof">Jollof Rice</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="#fried">Fried Rice</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="#coconut">Coconut Rice</a></td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td><a href="#biryani">Chicken Biryani</a></td>
+      <td>4</td>
+    </tr>
+  </tbody>
+  </table>
+<p>  <h3 id="jollof">Jollof Rice</h3></p>
+  <img src="https://i2.wp.com/www.myactivekitchen.com/wp-content/uploads/2015/07/Nigerian-jollof-rice-image.jpg?fit=600%2C900&ssl=1" alt="party jollof" width="400">
+  <p><table>
+    <thead>
+      <tr>
+        <th>Ingredient</th>
+        <th>Quantity</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Rice</td>
+        <td>4 cups</td>
+      </tr>
+      <tr>
+        <td>Tomatoes</td>
+        <td>10 pieces</td>
+      </tr>
+      <tr>
+        <td>Pepper</td>
+        <td>10 pieces</td>
+      </tr>
+      <tr>
+        <td>Onions</td>
+        <td>2 bulbs</td>
+      </tr>
+      <tr>
+        <td>cooking oil</td>
+        <td>1/2 cup</td>
+      </tr>
+      <tr>
+        <td>Seasoning cubes</td>
+        <td>4 cubes</td>
+      </tr>
+      <tr>
+        <td>Salt</td>
+        <td>to taste</td>
+      </tr>
+      <tr>
+        <td>Curry&Thyme</td>
+        <td>1 tablespoon</td>
+      </tr>
+      <tr>
+        <td>Bayleaves</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>Water</td>
+        <td>5 litres</td>
+      </tr>
+    </tbody>
+  </table></p>
+  <h4>Procedure</h4>
+<ol>
+<li>Pour oil into pot </li>
+<p><li>Allow to heat up for a few seconds </li></p>
+<p><li>Dice some onions and pour into oil </li></p>
+<p><li>Blend pepper, Tomatoes and remaining onions </li></p>
+<p><li>Pour the blend into the pot </li></p>
+<p><li>Fry for 10 minutes</li></p>
+<p><li>Add seasoning cubes, curry, thyme, bayleaves, salt and water</li></p>
+<p><li>Leave to boil</li></p>
+<p><li>Add parboiled rice</li></p>
+<p><li>Cover pot and allow to cook until all the water dries out</li></p>
+</ol>
+<strong><em>Voila! Your jollof is ready</em></strong>
+<p>There are other methods of cooking  jollof rice. Want that smokey feel of party jollof? Click <a href="https://9jafoodie.com/perfectly-smokey-nigerian-party-jollof-rice/">here</a> for the recipe.
+
+
+  <p>  <h3 id="fried">Fried Rice</h3></p>
+    <img src="https://i0.wp.com/www.nigerianlazychef.com/wp-content/uploads/2016/12/IMG_6780.jpg" alt="fried rice" width="550">
+    <p><strong>One thing about fried rice is that it makes use of many veggies and most times, an animal stock. If not properly cooked, fried rice spoils fast.<br> For this recipe, we would be using chicken.</strong></p>
+    <p><table>
+      <thead>
+        <tr>
+          <th>Ingredient</th>
+          <th>Quantity</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Rice</td>
+          <td>4 cups</td>
+        </tr>
+        <tr>
+          <td>Chicken breasts</td>
+          <td>5 pieces</td>
+        </tr>
+        <tr>
+          <td>Bell peppers</td>
+          <td>Green, red and yellow</td>
+        </tr>
+        <tr>
+          <td>Onions</td>
+          <td>2 bulbs</td>
+        </tr>
+        <tr>
+          <td>cooking oil</td>
+          <td>1/2 cup</td>
+        </tr>
+        <tr>
+          <td>Seasoning cubes</td>
+          <td>4 cubes</td>
+        </tr>
+        <tr>
+          <td>Salt</td>
+          <td>to taste</td>
+        </tr>
+        <tr>
+          <td>Curry&Thyme</td>
+          <td>2 tablespoon</td>
+        </tr>
+        <tr>
+          <td>Carrots</td>
+          <td>1/2kg</td>
+        </tr>
+        <tr>
+          <td>Green beans</td>
+          <td>1/2kg</td>
+        </tr>
+        <tr>
+          <td>Sweet corn</td>
+          <td>1 can</td>
+        </tr>
+        <tr>
+          <td>Sausages</td>
+          <td>3</td>
+        </tr>
+        <td>Habanero pepper</td>
+        <td>5</td>
+        <tr>
+          <td>Water</td>
+          <td>5 litres</td>
+        </tr>
+      </tbody>
+    </table></p>
+  <h4>Procedure</h4>
+  <ol>
+  <li>Pour chicken stock into pot and add water.</li>
+  <p><li>Add parboiled rice, seasoning cubes, enough curry, thyme, salt and allow to cook.</li></p>
+  <p><li>Dice all the veggies and sausages. </li></p>
+  <p><li>In a separate pan, heat up some oil. Not too much</li></p>
+  <p><li>Add the diced onions, sausages and habanero peppers. </li></p>
+  <p><li>Stir fry on medium heat.</li></p>
+  <p><li>Add the diced carrots, green beans and bell peppers; stir.</li></p>
+  <p><li>Shred the chicken breasts and fry with the mix.</li></p>
+  <p><li>Add the sweet corn and stir fry the mixture on medium heat.</li></p>
+  <p><li>Add some curry, seasoning cubes and salt. Taste the mix and ensure it's not too salty.</li></p>
+  <p><li> Pour the previously cooked rice into the pan. Mix well with all the fried veggies. Stir fry on low heat for 5 minutes.</li></p>
+  <em>Voila! Your fried rice is ready to wow your tastebuds.</em>
+  </ol>
+
+
+  <p>  <h3 id="coconut">Coconut Rice</h3></p>
+    <img src="https://www.preciouscore.com/wp-content/uploads/2014/09/Cameroon-coconut-rice.jpg" alt="coconut rice" width="400">
+    <p><strong>As usual, there are many methods that lead to the same product.<br> Some of you would like some protein on this, go ahead. Stir-fry shrimp, beef or chicken mix and serve.</strong></p>
+    <p><table>
+      <thead>
+        <tr>
+          <th>Ingredient</th>
+          <th>Quantity</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Rice</td>
+          <td>4 cups</td>
+        </tr>
+        <tr>
+          <td>Coconut Milk</td>
+          <td>1 cup</td>
+        </tr>
+        <tr>
+          <td>Bell peppers</td>
+          <td>Green, red and yellow</td>
+        </tr>
+        <tr>
+          <td>Onions</td>
+          <td>2 bulbs</td>
+        </tr>
+        <tr>
+          <td>garlic</td>
+          <td>1 teaspoon</td>
+        </tr>
+        <tr>
+          <td>Soy Sauce</td>
+          <td>1 tablespoon</td>
+        </tr>
+        <tr>
+          <td>Oyster sauce</td>
+          <td>1 tablespoon</td>
+        </tr>
+        <tr>
+          <td>Curry&Thyme</td>
+          <td>2 tablespoon</td>
+        </tr>
+        <tr>
+          <td>Carrots</td>
+          <td>1/2kg</td>
+        </tr>
+        <tr>
+          <td>Green beans</td>
+          <td>1/2kg</td>
+        </tr>
+        <tr>
+          <td>Sweet corn</td>
+          <td>1 can</td>
+        </tr>
+        <tr>
+          <td>chicken stock</td>
+          <td>optional</td>
+        </tr>
+        <td>Habanero pepper</td>
+        <td>5</td>
+        <tr>
+          <td>Water</td>
+          <td>5 litres</td>
+        </tr>
+        <tr>
+          <td>cooking oil</td>
+          <td>1/2 cup</td>
+        </tr>
+      </tbody>
+    </table></p>
+  <h4>Procedure</h4>
+  <ol>
+  <li>Place rice in a pot, add coconut milk, chicken stock, water and salt.</li>
+  <p><li>Add seasoning cubes, enough curry, thyme, salt and allow to cook.</li></p>
+  <p><li>Dice all the veggies </li></p>
+  <p><li>In a separate pan, heat up some oil. Not too much</li></p>
+  <p><li>Add the diced onions, garlic and habanero peppers. </li></p>
+  <p><li>Stir fry on medium heat.</li></p>
+  <p><li>Add the diced carrots, green beans and bell peppers; stir.</li></p>
+  <p><li>Pour in the soy and oyster sauces.</li></p>
+  <p><li>Add the sweet corn and stir fry the mixture on medium heat.</li></p>
+  <p><li>Add some curry, taste the mix and ensure it's not too salty.</li></p>
+  <p><li> Pour the previously cooked rice into the pan. Mix well with all the fried veggies. Stir fry on low heat for 5 minutes.</li></p>
+  <em>Voila! Your coconut rice is ready to wow your tastebuds.</em> You can also shred some coconut and add to the mix.
+  </ol>
+
+  <p>  <h3 id="biryani">Chicken Biryani</h3></p>
+    <img src="https://www.indianhealthyrecipes.com/wp-content/uploads/2019/02/chicken-biryani-recipe-500x500.jpg" alt="Biryani Rice">
+    <p><strong>Biryani is one of the most amazing royal delicacies introduced to Indians by the Mughals. Since then it has been considered to be a luxurious treat to enjoy on special occasions.<br> Making a chicken biryani in authentic dum style does take some time and requires a little expertise.</strong></p>
+    <p><table>
+      <thead>
+        <tr>
+          <th>Ingredient</th>
+          <th>Quantity</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td> Basmati Rice</td>
+          <td>4 cups</td>
+        </tr>
+        <tr>
+          <td>Biryani Masala/ Garam Masala</td>
+          <td>1 cup</td>
+        </tr>
+        <tr>
+          <td>Ghee</td>
+          <td>2 tablespoons</td>
+        </tr>
+        <tr>
+          <td>Chicken</td>
+          <td>1kg</td>
+        </tr>
+        <tr>
+          <td>Plain yoghurt</td>
+          <td>1/2 cup</td>
+        </tr>
+        <tr>
+          <td>Ginger and garlic paste</td>
+          <td>2 tablespoon</td>
+        </tr>
+        <tr>
+          <td>Chilli pepper</td>
+          <td>1 tablespoon</td>
+        </tr>
+        <tr>
+          <td>Onions</td>
+          <td>2 bulbs</td>
+        </tr>
+        <tr>
+          <td>Mint</td>
+          <td>1 teaspoon</td>
+        </tr>
+        <tr>
+          <td>Coconut Milk</td>
+          <td>1/2 cup</td>
+        </tr>
+        <tr>
+          <td>Turmeric</td>
+          <td>1/2 teaspoon</td>
+        </tr>
+        <tr>
+          <td>Cinnamon</td>
+          <td>2 inches</td>
+        </tr>
+        <td>curry powder</td>
+        <td>1 tablespoon</td>
+        <tr>
+          <td>Water</td>
+          <td>3 litres</td>
+        </tr>
+        <tr>
+          <td>cooking oil</td>
+          <td>1/2 cup</td>
+        </tr>
+      </tbody>
+    </table></p>
+  <h4>Procedure</h4>
+  <ol>
+  <li>Place chicken in a bowl, add yoghurt, ginger and garlic paste, biryani masala, chilli powder, turmeric, salt.</li>
+  <p><li>Mix up well. Allow to marinade for 2 hours.</li></p>
+  <p><li>Heat ghee or oil in a sauce pan. </li></p>
+  <p><li>In the sauce pan, heat up some oil. Sautee remaining spices.</li></p>
+  <p><li>Fry the diced onions, add marinated chicken and saute for 5 minutes under medium heat. </li></p>
+  <p><li>Cover and cook on low flame until chicken is tender.</li></p>
+  <p><li>Add yoghurt, mint, more chilli powder and garam masala.</li></p>
+  <p><li>Mix everything well and layer chicken evenly at the bottom.</li></p>
+  <p><li>Spread rice on chicken, add a spoon of salt and pour 3 cups of water.</li></p>
+  <p><li>Sprinkle mint and fried onions. Cover pot and allow chicken and rice to cook perfectly.</li></p>
+  <p><li>Enjoy the chicken biryani with raita, sliced veggies, papad and shorba.</li></p>
+  <em>Voila! Your chicken biryani is ready to wow your tastebuds.</em> It's better to cook with a pressure pot as it tenderizes food faster..
+  </ol>
+  <p>Thank you for visiting our page, don't forget to check out other interesting recipes <a href="https://www.delish.com/cooking/recipe-ideas/g129/rice-recipes/">here</a></p>
+</body>
+</html>
